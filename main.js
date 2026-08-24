@@ -14,5 +14,4 @@ function voting_age(age){
     }
 }
 
-
 module.exports={calculate_area, calculate_perimeter, voting_age}
